@@ -1,5 +1,8 @@
 ! my custom filter
 
+||ilbe.com^
+||www.ilbe.com^
+google.*##a[href*="ilbe.com"]:upward(2)
 ruliweb.com##a[href*="nid=929867"] 
 mypi.ruliweb.com##tr:-has(a[href*="nid=929867"]) 
 ruliweb.com##a[href*="nid=5294731"] 
