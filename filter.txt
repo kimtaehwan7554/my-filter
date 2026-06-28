@@ -100,3 +100,5 @@ ruliweb.com##a[href*="nid=5681126"]
 mypi.ruliweb.com##tr:-has(a[href*="nid=5681126"]) 
 ruliweb.com##a[href*="nid=5624898"] 
 mypi.ruliweb.com##tr:-has(a[href*="nid=5624898"]) 
+ruliweb.com##a[href*="nid=5838069"] 
+mypi.ruliweb.com##tr:-has(a[href*="nid=5838069"]) 
